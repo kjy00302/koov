@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KOOV</string>
+    <string name="preferences_file_key">com.kjy00302.koov.Preferences</string>
+</resources>
